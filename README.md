@@ -1,4 +1,4 @@
-# Guilherme Sanches 👩🏻‍💻 
+# Guilherme Sanches  
 
 **`Desenvolvedor Frond End`**
 
