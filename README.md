@@ -49,4 +49,5 @@ Olá! Eu me chamo Guilherme Sanches Matias, tenho 18 anos e sou de São Paulo. C
 </br>
 </br>
 <a href="https://www.linkedin.com/in/guilhermesanchesmatias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gsanches2matias@gmail.com)  
 
