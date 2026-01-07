@@ -1,8 +1,8 @@
-# Olá, eu sou o Guilherme Sanches 👩🏻‍💻 
+# Guilherme Sanches 👩🏻‍💻 
 
 **`Desenvolvedor Frond End`**
 
-Me chamo Guilherme Sanches Matias, tenho 18 anos e sou de São Paulo. Concluí o ensino médio na Etec Raposo Tavares, com o curso técnico em Desenvolvimento de Sistemas e sigo estudando na área.
+Olá! Eu me chamo Guilherme Sanches Matias, tenho 18 anos e sou de São Paulo. Concluí o ensino médio na Etec Raposo Tavares, com o curso técnico em Desenvolvimento de Sistemas e sigo estudando na área.
 
 ### 🤖 Linguagens e Tecnologias
 
