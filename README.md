@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Frond End`**
 
-Olá! Eu me chamo Guilherme Sanches Matias, tenho 18 anos e sou de São Paulo. Concluí o ensino médio na Etec Raposo Tavares integrado ao curso técnico em Desenvolvimento de Sistemas e sigo estudando na área.
+Olá! Eu me chamo Guilherme Sanches Matias, tenho 18 anos e sou de São Paulo. Sou estudante de Engenharia de Sofware e técnico em Desenvolvimento de Sistemas pela Etec. Gosto muito de tecnologia e inovação.
 
 🌱 Atualmente estou estudando UX/UI Design e React. </br>
 💻 Procurando por oportunidades de trabalho.
